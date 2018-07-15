@@ -15,4 +15,4 @@ Open index.html in Firefox.
 
 ### User Interaction ### 
 
-To rotate the vase around the x, y, and z axes, press 'x', 'y', 'z' on the keyboard respectively.
+To rotate the vase around the x, y, or z axis, press 'x', 'y', or 'z' on the keyboard, respectively.
