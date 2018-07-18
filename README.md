@@ -1,5 +1,10 @@
 # 3D Vase
 
+### Goal ###
+
+The goal was to use Three.js to render a vase similar to the one pictured below: 
+<img src="imgs/vase.jpg" alt="Royal Doulton Flambe Australian Waratah Vase" style="text-align:center">
+
 
 ### Usage ### 
 
@@ -8,9 +13,9 @@
 Download the Three.js SceneUtils file from <a href="https://github.com/mrdoob/three.js/blob/master/examples/js/utils/SceneUtils.js">Github.</a>
 
 
-Download index.html and rose.png from this repository.
+Download index.html and rose.jpg from this repository.
 
-Open index.html in Firefox.
+Open index.html in a Firefox browser.
 
 
 ### User Interaction ### 
