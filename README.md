@@ -2,9 +2,10 @@
 
 ### Goal ###
 
-The goal was to use Three.js to render a vase similar to the one pictured below: 
+The goal was to use Three.js to render a vase similar to the one pictured below:
+<br> 
 <img src="imgs/vase.jpg" alt="Royal Doulton Flambe Australian Waratah Vase" width="200" height="250" style="text-align:center">
-
+<br>
 
 ### Usage ### 
 
