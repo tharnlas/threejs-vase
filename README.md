@@ -1,15 +1,15 @@
 # 3D Vase
 
-### Goal ###
+### 1. Goal ###
 
 The goal was to use Three.js to render a vase similar to the one pictured below:
-<br> 
-<img src="imgs/vase.jpg" alt="Royal Doulton Flambe Australian Waratah Vase" width="200" height="250" style="text-align:center">
+<br>
+<div style="text-align:center"><img src="imgs/vase.jpg" alt="Royal Doulton Flambe Australian Waratah Vase" width="200" height="250"></div>
 <br>
 
-### Usage ### 
+### 2. Usage ### 
 
-#### Setup ####
+#### 2a. Setup ####
 
 Download the Three.js SceneUtils file from <a href="https://github.com/mrdoob/three.js/blob/master/examples/js/utils/SceneUtils.js">Github.</a>
 
@@ -19,6 +19,6 @@ Download index.html and rose.jpg from this repository.
 Open index.html in a Firefox browser.
 
 
-#### User Interaction #### 
+#### 2b. User Interaction #### 
 
 To rotate the vase around the x, y, or z axis, press 'x', 'y', or 'z' on the keyboard, respectively.
