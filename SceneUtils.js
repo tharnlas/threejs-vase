@@ -2,7 +2,9 @@
  * @author alteredq / http://alteredqualia.com/
  */
 
-THREE.SceneUtils = {
+import * as THREE from 'three';
+
+const SceneUtils = {
 
 	createMultiMaterialObject: function ( geometry, materials ) {
 
@@ -36,3 +38,5 @@ THREE.SceneUtils = {
 	}
 
 };
+
+export default SceneUtils;
